@@ -147,7 +147,7 @@
     <string name="notification_slider_mode_none">Normal</string>
     <string name="thermal_title">Perfil de otimização</string>
     <string name="thermal_summary">Ajuste de perfil de cada aplicativo para melhor desempenho</string>
-    <string name="thermal_default">Não otimizar</string>
+    <string name="thermal_default">Padrão</string>
     <string name="thermal_benchmark">Desempenho</string>
     <string name="thermal_browser">Navegador</string>
     <string name="thermal_camera">Câmera</string>
