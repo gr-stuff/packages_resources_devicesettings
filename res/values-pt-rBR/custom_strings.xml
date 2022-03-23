@@ -199,10 +199,10 @@
     <string name="refresh_title">Taxa de atualização por aplicativo</string>
     <string name="refresh_summary">Defina uma taxa de atualização específica para cada aplicativo</string>
     <string name="refresh_default">Padrão</string>
-    <string name="refresh_low">Baixa (30Hz)</string>
-    <string name="refresh_medium">Básica (60Hz)</string>
-    <string name="refresh_high">Alta (90Hz)</string>
-    <string name="refresh_maximum">Máxima (120Hz)</string>
+    <string name="refresh_low">30Hz</string>
+    <string name="refresh_medium">60Hz</string>
+    <string name="refresh_high">90Hz</string>
+    <string name="refresh_maximum">120Hz</string>
     <string name="haptic_title">Controlador de vibração</string>
     <string name="haptic_warning">Configurar uma vibração muito alta pode causar danos permanentes ao hardware, use por sua conta e risco</string>
     <string name="haptic_summary">Personalize a intensidade da vibração</string>
