@@ -20,7 +20,8 @@
     <string name="dc_dimming_enable_summary">O modo anti cintilação ajuda a reduzir a fadiga ocular em condições de pouca luz usando o recurso \"DC dimming\". Isso pode degradar a precisão das cores e afetar a forma como alguns itens são exibidos.</string>
     <string name="dc_dimming_enable_summary_not_supported">O modo anti cintilação não é suportado pelo kernel atual</string>
     <string name="dirac_enable">Ativar o otimizador de áudio</string>
-    <string name="dirac_summary">Otimizar qualidade de áudio</string>
+    <string name="dirac_title">Dirac</string>
+    <string name="dirac_summary">Otimize a qualidade do áudio</string>
     <string name="dirac_headset_title">Escolher tipo de fone de ouvido</string>
     <string name="dirac_preset_title">Escolha uma predefinição</string>
     <string name="dirac_hifi_title">Áudio Hi-Fi</string>
@@ -145,7 +146,7 @@
     <string name="notification_slider_mode_vibrate">Vibrar</string>
     <string name="notification_slider_mode_none">Normal</string>
     <string name="thermal_title">Perfis térmicos</string>
-    <string name="thermal_summary">Defina perfis térmicos pra cada aplicativo para um melhor desempenho</string>
+    <string name="thermal_summary">Defina perfis térmicos e modo de jogo para cada aplicativo</string>
     <string name="thermal_default">Padrão</string>
     <string name="thermal_benchmark">Desempenho</string>
     <string name="thermal_browser">Navegador</string>
@@ -163,13 +164,13 @@
     <string name="refresh_rate_tile_disabled">Economia de bateria ativada</string>
     <string name="touch_control_title">Otimizações do toque</string>
     <string name="touch_game_mode_title">Ativar modo de jogo</string>
-    <string name="touch_game_mode_summary">Ajuda a melhorar a experiência em jogos otimizando a resposta ao toque e aumentando o desempenho do dispositivo</string>
+    <string name="touch_game_mode_summary">Otimiza a resposta ao toque e aumenta o desempenho do dispositivo</string>
     <string name="touch_response_title">Resposta ao toque</string>
-    <string name="touch_response_summary">Controla a resposta ao toque</string>
+    <string name="touch_response_summary">Controle a resposta ao toque</string>
     <string name="touch_sensitivity_title">Sensibilidade do toque</string>
-    <string name="touch_sensitivity_summary">Controla a sensibilidade para toques repetidos</string>
+    <string name="touch_sensitivity_summary">Controle a sensibilidade para toques repetidos</string>
     <string name="touch_resistant_title">Área resistente a toques</string>
-    <string name="touch_resistant_summary">Reduz a sensibilidade perto das bordas para evitar toques acidentais</string>
+    <string name="touch_resistant_summary">Controle a sensibilidade perto das bordas para evitar toques acidentais</string>
     <string name="button_settings_title">Botões</string>
     <string name="button_swap_summary">Inverter botões de navegação</string>
     <string name="home_button_extra_settings">Customizar o comportamento do botão de início</string>
@@ -206,7 +207,7 @@
     <string name="haptic_warning">Configurar uma vibração muito alta pode causar danos permanentes ao hardware, use por sua conta e risco</string>
     <string name="haptic_summary">Personalize a intensidade da vibração</string>
     <string name="haptic_level_title">Intensidade da vibração</string>
-    <string name="haptic_level_summary">Ajuste a intensidade da vibração</string>
+    <string name="haptic_level_summary">Controle a intensidade da vibração</string>
     <string name="haptic_level_summary_incompatible">O kernel não suporta este recurso</string>
     <string name="fps_info_title">Contador de FPS</string>
     <string name="powershare_enable_title">Compartilhamento de bateria</string>
