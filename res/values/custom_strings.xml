@@ -268,7 +268,7 @@
     <string name="refresh_low">30Hz</string>
     <string name="refresh_medium">60Hz</string>
     <string name="refresh_high">90Hz</string>
-    <string name="refresh_extreme">120Hz</string>
+    <string name="refresh_maximum">120Hz</string>
 
     <!-- Powershare -->
     <string name="powershare_enable_title">Battery Share</string>
